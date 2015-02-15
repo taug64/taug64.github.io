@@ -1,0 +1,103 @@
+.nav {
+    background-color:black;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.nav li {
+    display:inline-block;
+    padding: 15px;
+}
+.nav a {
+    font-size:16px;
+    padding:10px;
+    font-weight:bold;
+    color:white;
+    
+}
+.jumbotron {
+    background-image: url(https://codecademy-content.s3.amazonaws.com/courses/web-beginner-en-3pc6w/images/splash.jpg);
+    height:100%;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+}
+body {
+        background-image: url(https://codecademy-content.s3.amazonaws.com/courses/web-beginner-en-3pc6w/images/splash.jpg);
+    height:100%;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+}
+.jumbotron .container {
+    position:relative;
+    top:60px;
+}
+.jumbotron p {
+    font-size:20px;
+    font-family: lucida-grande;
+    color:white;
+    background-color:black;
+    padding:20px;
+    position:relative;
+    top:10px;
+
+}
+.jumbotron h1 {
+    font-size:60px;
+    font-family:lucida-grande;
+    color:white;
+    background-color:black;
+    padding:20px;
+}
+.jumbotron ul {
+    font-size:20px;
+    font-family: lucida-grande;
+    color:white;
+    background-color:black;
+    padding:20px;
+    position:relative;
+    top:10px;
+    list-style-position:inside;
+    list-style:none;
+}
+#me {
+    padding-top:20px;
+    padding-bottom:20px;
+}
+.info p {
+    text-align:center;
+    padding:150px;
+    padding-bottom:20px;
+    padding-top:20px;
+}
+#quote {
+    font-style:italic;
+    padding-bottom:0px;
+    text-align:right;
+    font-size:24px;
+    margin-left:300px;
+}
+#author {
+    padding-top:0px;
+    text-align:right;
+    font-size:20px;
+}
+.info h2 {
+    text-align:center;
+    padding:150px;
+    padding-bottom:20px;
+    padding-top:20px;
+}
+#car {
+    font-size:25px;
+    font-style:italic;
+}
+.contact p {
+    text-align:right;
+    padding-right:0px;
+    position:relative;
+}
+#book {
+    position:relative;
+    bottom:300px;
+}
