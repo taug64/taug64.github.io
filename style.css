@@ -101,3 +101,6 @@ body {
     position:relative;
     bottom:300px;
 }
+#video {
+    padding-top: 20px;
+}
